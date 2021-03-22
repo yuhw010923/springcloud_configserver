@@ -1,0 +1,2 @@
+# springcloud_configserver
+这是我springcloud中的注册中心configserver
